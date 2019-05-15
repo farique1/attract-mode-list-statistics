@@ -1,5 +1,6 @@
-![#AMLS](https://github.com/farique1/attract-mode-list-statistics/blob/master/Images/AMLS.png)
+# Attract Mode List Statistics
 
+![#AMLS](https://github.com/farique1/attract-mode-list-statistics/blob/master/Images/AMLS.png)  
 
 ## What it is.
 
