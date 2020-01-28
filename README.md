@@ -1,7 +1,8 @@
 <img src="https://github.com/farique1/attract-mode-list-statistics/blob/master/Images/GitHub_AMLS_Logo-02.png" alt="Attract Mode List Statistics" width="290" height="130">  
-# Attract Mode List Statistics
 
-## What it is.
+# Attract Mode List Statistics  
+
+## What it is.  
 
 **Attract Mode List Statistics**  help you organise the assets on your **Attract Mode** installation.  
 **AMLS** identify the assets you are missing and the ones you have that are not being used on your **Attract Mode** setup based on your ROM collection.  
