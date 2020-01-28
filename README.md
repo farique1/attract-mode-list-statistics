@@ -1,4 +1,4 @@
-<img src="https://github.com/farique1/attract-mode-list-statistics/blob/master/Images/GitHub_AMLS_Logo-02.png" alt="Attract Mode List Statistics" width="290" height="130">
+<img src="https://github.com/farique1/attract-mode-list-statistics/blob/master/Images/GitHub_AMLS_Logo-02.png" alt="Attract Mode List Statistics" width="290" height="130">  
 # Attract Mode List Statistics
 
 ## What it is.
