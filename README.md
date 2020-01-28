@@ -1,6 +1,6 @@
-# Attract Mode List Statistics
+  <img src="https://github.com/farique1/attract-mode-list-statistics/blob/master/Images/GitHub_AMLS_Logo-02.png" alt="Attract Mode List Statistics" width="290" height="130">
 
-![#AMLS](https://github.com/farique1/attract-mode-list-statistics/blob/master/Images/AMLS.png)  
+# Attract Mode List Statistics
 
 ## What it is.
 
